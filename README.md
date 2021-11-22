@@ -9,11 +9,20 @@
 ### Domains ⚡️
 
 - ☁️  Cloud Computing for Data Science related projects on AWS
+  - 📊 Shiny deployments (RStudio products)
+  - 🐍 R & Python workloads
+  - ⚙️  ETL pipelines
+  - ƛ  Serverless 
 - ∞ DevOps 
 - ⚒️  IaC ( Terraform, CloudFormation, ARM )
-- ⚙️  Automation ( Ansible, Python )
+- 🚀 Automation ( Ansible, Python )
 - 🔒 Security ( IAM, networking, linux, cloud, best-practices, trainings )
 
+### Worth sharing 🧠
+
+- 📕 Principles by Ray Dalio
+- 🎙 The Huberman Lab Hosted by Dr. Andrew Huberman
+- 🧘 Headspace
 
 ### Checkout my repos ⬇️
 
