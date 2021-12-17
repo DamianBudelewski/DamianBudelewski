@@ -8,14 +8,18 @@
 
 ### Domains ⚡️
 
-- ☁️  Cloud Computing for Data Science related projects on AWS
+- ☁️  Desing and implementation of cloud architectures for **Data Science** related projects using **AWS** (80%) and Azure (20%)
   - 📜 AWS Certified Solutions Architect – Associate [badge](https://www.credly.com/badges/61384be4-bf67-4b70-8b3e-674c52ee969a)
-  - 📊 Shiny deployments (RStudio products)
-  - 🐍 R & Python workloads
+  - 📊 R/Shiny deployments using RStudio Connect/Workbench/Package Manager and Docker
+  - 🐍 R & Python workloads - batch jobs, ETL pipelines
 - ∞ DevOps 
-- ⚒️  IaC ( Terraform, CloudFormation, ARM )
-- 🚀 Automation ( Ansible, Python )
-- 🔒 Security ( IAM, networking, linux, cloud, best-practices, trainings )
+- ⚒️  IaC with Terraform, CloudFormation, ARM depending on the cloud provider and use case
+- 🚀 Automation using Ansible and Python/Bash scripting 
+- 🔒 Security 
+  - ☁️ using proper IAM, networking and cloud accounts configuration
+  - 🐧 linux hardening
+  - 🔑 data encryption (in transit/at rest)
+  - 👨‍🏫 leading security awareness trainings
 
 ### Worth sharing 🧠
 
