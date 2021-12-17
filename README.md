@@ -24,5 +24,3 @@
 - 🧘 Headspace
 
 ### Checkout my repos ⬇️
-
-**Mastestering AWS** is the most recent one. It's structurized in directories per AWS tool or service that I was researching. Each of them is different e.g in one I deploy using cloud formation and in other using terraform and so on, so make sure to take a look at all of them 😉
