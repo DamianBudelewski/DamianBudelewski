@@ -16,9 +16,7 @@
 - ⚒️  IaC with Terraform, CloudFormation, ARM depending on the cloud provider and use case
 - 🚀 Automation using Ansible and Python/Bash scripting 
 - 🔒 Security 
-  - ☁️ using proper IAM, networking and cloud accounts configuration
-  - 🐧 linux hardening
-  - 🔑 data encryption (in transit/at rest)
+  - ☁️ configuring IAM, networking, governance, etc
   - 👨‍🏫 leading security awareness trainings
 
 ### Worth sharing 🧠
