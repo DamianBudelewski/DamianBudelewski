@@ -9,10 +9,9 @@
 ### Domains ⚡️
 
 - ☁️  Cloud Computing for Data Science related projects on AWS
+  - 📜 AWS Certified Solutions Architect – Associate [badge](https://www.credly.com/badges/61384be4-bf67-4b70-8b3e-674c52ee969a)
   - 📊 Shiny deployments (RStudio products)
   - 🐍 R & Python workloads
-  - ⚙️  ETL pipelines
-  - ƛ  Serverless 
 - ∞ DevOps 
 - ⚒️  IaC ( Terraform, CloudFormation, ARM )
 - 🚀 Automation ( Ansible, Python )
