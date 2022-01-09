@@ -23,6 +23,7 @@
 
 - 📕 Principles by Ray Dalio
 - 🎙 The Huberman Lab Hosted by Dr. Andrew Huberman
-- 🧘 Headspace
+- 🧘 [Headspace](https://www.headspace.com/)
+- 📝 [Obsidian](https://obsidian.md/)
 
 ### Checkout my repos ⬇️
