@@ -26,8 +26,8 @@
 
 ### Worth sharing 🧠
 
-- 📕 Principles by Ray Dalio
-- 🎙 The Huberman Lab Hosted by Dr. Andrew Huberman
+- 📕 [Principles by Ray Dalio](https://www.principles.com/)
+- 🎙 [The Huberman Lab Hosted by Dr. Andrew Huberman](https://hubermanlab.com/)
 - 🧘 [Headspace](https://www.headspace.com/)
 - 📝 [Obsidian](https://obsidian.md/)
 
