@@ -8,24 +8,4 @@
 
 ![](https://komarev.com/ghpvc/?username=damianbudelewski)
 
-
-### Domains ⚡️
-
-- 🧑‍💼 Cloud Consulting
-  - 📜 AWS Certified Solutions Architect Associate - [badge](https://www.credly.com/badges/61384be4-bf67-4b70-8b3e-674c52ee969a)
-- ⚒️ Infrastructure as Code
-- 🚀 Automation
-- 🔒 Security 
-- ∞  CI/CD
-- 💻 Python & Bash scripting 
-- 👨‍🏫 Knowledge sharing as a AWS trainer
-
-### Worth sharing 🧠
-
-- 📕 [Principles by Ray Dalio](https://www.principles.com/)
-- 🎙 [The Huberman Lab Hosted by Dr. Andrew Huberman](https://hubermanlab.com/)
-- 🧘 [Headspace](https://www.headspace.com/)
-- 🏋️ [ATG](https://www.atgonlinecoaching.com/)
-- 📝 [Obsidian](https://obsidian.md/)
-
 ### Checkout my repos ⬇️
