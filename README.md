@@ -7,5 +7,3 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=damianbudelewski)
-
-### Checkout my repos ⬇️
